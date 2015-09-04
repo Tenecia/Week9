@@ -1,0 +1,24 @@
+﻿1. Exceptions - is a notification that something interrupts the normal program execution. Exceptions provide a programming paradigm for detecting and reacting to unexpected events
+2. Exception Handling - is a mechanism, which allows exceptions to be thrown and caught. This mechanism is provided internally by the CLR (Common Language Runtime). Parts of the exception handling infrastructure are the language constructs in C# for throwing and catching exceptions. CLR takes care to propagate each exception to the code that can handle it. 
+3. Exceptions Hierarchy- In OOP, exceptions are classes and they can be inherited to build hierarchies. When an exception is handled (caught), the handling mechanism could catch a whole class of exceptions and not just a particular error
+4. Stack- is a LIFO collection. It provides a powerful and simple last-in-first-out data structure. This can help you develop parsers quickly and also replace complex recursive algorithms. Stack is a generic type.
+5. Stack Trace - contains detailed information about the exception including where exactly it occurred in the program. The stack trace is very useful for programmers when they try to understand the problem causing the exception. The information in the stack trace is very technical and is designed to be used by programmers and system administrators and not by the end users. 
+6. Stack Push - The general principle is that when a new method is called, it is pushed on top of the stack. When the method finishes, it is pulled back from the stack. 
+7. Stack Pop / Pull - When the method finishes, it is pulled back from the stack. Taking the last added element from the top of the stack.
+8. Compile (a program) -  translates the high-level language instructions into object code.
+9. Debug - When our program contains errors, also known as bugs, we must find and remove them, i.e. we need to debug the program. Noticing the problems (bugs); then, find the code causing the problems; then fix the code so that the program works correctly, lastly test.
+10. Throw an Exception - purposely interrupting normal program execution.
+11. Catch an Exception - handling an error and using it to present the user with a message regarding the exception. 
+12. Application Exception -  exceptions thrown by the applications we develop
+13. System Exception - exceptions thrown by the runtime 
+14. IO Exception - Input/Output Exception Handling 
+15. Nested Exceptions - when you have a try catch block within another try catch block. Not good practice. 
+16. Wrapped Exception - you specify it as the inner exception of a new exception and then throw the new exception. This practice should be used only in situations where the original exception is not meaningful to the person who receives the exception, or the call stack for the exception is misleading or uninteresting. 
+17. Internal Exception - property returns the inner (wrapped, nested) exception or null if such doesn’t exist.
+18. Dispose Pattern - is intended to standardize the usage and implementation of finalize and dispose method.
+19. Null - A reference that does not refer to any object. Null can be a pointer that holds a memory location.
+20. Try - This block contains the guarded code that may cause the exception. The block is executed until an exception is thrown or is completed successfully.
+21. Catch - Handles the exception.
+22. Finally - Cleans up any resources that are allocated in the try block. You can run the code even if the exception occures in the try block.Within a handled exception, the finally block is guarenteed to run.
+23. Error Message - Text that is displayed to describe a problem that has occured that is preventing the user or the system from completeing a task. Error message say what happened and why, what is the end result for the user, and what can the user do to prevent it from happening again.  
+24.
