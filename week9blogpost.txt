@@ -1,0 +1,14 @@
+﻿Specs You Look For in a New Computer
+
+
+There are many things to consider when shopping around for a new computer. Other than the general look and feel of a computer, you must know what you are looking for in terms of its specifications. There are three things that are very important to look for, such as its processor, memory, and the hard drive. 
+
+
+The processor is the CPU (Central Processing Unit ). The CPU act as the brains of the computer, where most calculations are carried out. This is a chip that carries out the commands of a program. the CPU also performs the computer's basic functions. Three examples of CPU’s include, a Hyper-threading processor, dual core processor , and single core processor. 
+A Hyper- threading processor can run multiple programs at once without locking up. Cores represent the amount of processors in a CPU. Some of the best processors to consider include the Intel i series, i3,i5,i7. i3 is good for light usage such as internet surfing. i5 would be good for moderate to heavy use such as business functions. i7 is best for heavy graphics, programs, and gaming. 
+
+
+Another thing to consider is the computers RAM. RAM stands for random access memory. It holds values the the operating system is working on. RAM is the short term memory for the computer. I would look for at least 6 gig of RAM and it should be the fastest that the system will accept. 
+
+
+Lastly, the hard drive acts as the long term memory. Most computer hard drives are now Tera byte as opposed to a Giga byte. Giga bytes are smaller than Tera bytes. A Tera byte is 1000 Giga bytes. Solid State Drives are the way to go in terms of hard drive choice. Solid State Drives have faster boot-up speed and provide optimal performance. While they have better performance, they come at a higher cost, there for Solid State Drives are sold in smaller sizes.
